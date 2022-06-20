@@ -98,6 +98,7 @@ display: flex;
   width: 602px;
   
 }
+
 .button {
     background-color: #288eff;
     border: none;
@@ -124,9 +125,18 @@ display: flex;
     position: static;
     position: top;
 }
+
+.section-1 {
+  display: flex;
+}
+.image-div {
+  width: 801px;
+  
+}
 .image {
-  margin-left: 1039px;
-  margin-bottom: 262px;
+  margin-left: 305px;
+  margin-top: 262px;
+  margin-bottom: 287px;
 }
 
 .six-pack-wrapper {
